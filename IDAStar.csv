@@ -1,0 +1,501 @@
+Run,Algorithm,Heuristic,Execution Time (ms),Memory Used (Bytes)
+0,IDA*,EvenOdd Numbers Heuristic,15,112
+1,IDA*,EvenOdd Numbers Heuristic,15,192
+2,IDA*,EvenOdd Numbers Heuristic,15,192
+3,IDA*,EvenOdd Numbers Heuristic,15,192
+4,IDA*,EvenOdd Numbers Heuristic,16,192
+5,IDA*,EvenOdd Numbers Heuristic,14,192
+6,IDA*,EvenOdd Numbers Heuristic,13,192
+7,IDA*,EvenOdd Numbers Heuristic,15,192
+8,IDA*,EvenOdd Numbers Heuristic,15,192
+9,IDA*,EvenOdd Numbers Heuristic,13,192
+10,IDA*,EvenOdd Numbers Heuristic,13,192
+11,IDA*,EvenOdd Numbers Heuristic,16,192
+12,IDA*,EvenOdd Numbers Heuristic,14,192
+13,IDA*,EvenOdd Numbers Heuristic,16,192
+14,IDA*,EvenOdd Numbers Heuristic,16,192
+15,IDA*,EvenOdd Numbers Heuristic,15,192
+16,IDA*,EvenOdd Numbers Heuristic,15,192
+17,IDA*,EvenOdd Numbers Heuristic,15,192
+18,IDA*,EvenOdd Numbers Heuristic,16,192
+19,IDA*,EvenOdd Numbers Heuristic,15,192
+20,IDA*,EvenOdd Numbers Heuristic,17,192
+21,IDA*,EvenOdd Numbers Heuristic,13,192
+22,IDA*,EvenOdd Numbers Heuristic,13,192
+23,IDA*,EvenOdd Numbers Heuristic,12,192
+24,IDA*,EvenOdd Numbers Heuristic,13,192
+25,IDA*,EvenOdd Numbers Heuristic,14,192
+26,IDA*,EvenOdd Numbers Heuristic,13,192
+27,IDA*,EvenOdd Numbers Heuristic,14,192
+28,IDA*,EvenOdd Numbers Heuristic,13,192
+29,IDA*,EvenOdd Numbers Heuristic,13,192
+30,IDA*,EvenOdd Numbers Heuristic,14,192
+31,IDA*,EvenOdd Numbers Heuristic,13,192
+32,IDA*,EvenOdd Numbers Heuristic,14,192
+33,IDA*,EvenOdd Numbers Heuristic,14,192
+34,IDA*,EvenOdd Numbers Heuristic,13,192
+35,IDA*,EvenOdd Numbers Heuristic,14,192
+36,IDA*,EvenOdd Numbers Heuristic,13,192
+37,IDA*,EvenOdd Numbers Heuristic,13,192
+38,IDA*,EvenOdd Numbers Heuristic,13,192
+39,IDA*,EvenOdd Numbers Heuristic,13,192
+40,IDA*,EvenOdd Numbers Heuristic,13,192
+41,IDA*,EvenOdd Numbers Heuristic,14,192
+42,IDA*,EvenOdd Numbers Heuristic,13,192
+43,IDA*,EvenOdd Numbers Heuristic,13,192
+44,IDA*,EvenOdd Numbers Heuristic,14,192
+45,IDA*,EvenOdd Numbers Heuristic,13,192
+46,IDA*,EvenOdd Numbers Heuristic,13,192
+47,IDA*,EvenOdd Numbers Heuristic,13,192
+48,IDA*,EvenOdd Numbers Heuristic,13,192
+49,IDA*,EvenOdd Numbers Heuristic,14,192
+50,IDA*,EvenOdd Numbers Heuristic,14,192
+51,IDA*,EvenOdd Numbers Heuristic,13,192
+52,IDA*,EvenOdd Numbers Heuristic,14,192
+53,IDA*,EvenOdd Numbers Heuristic,13,192
+54,IDA*,EvenOdd Numbers Heuristic,14,192
+55,IDA*,EvenOdd Numbers Heuristic,14,192
+56,IDA*,EvenOdd Numbers Heuristic,14,192
+57,IDA*,EvenOdd Numbers Heuristic,14,192
+58,IDA*,EvenOdd Numbers Heuristic,13,192
+59,IDA*,EvenOdd Numbers Heuristic,14,192
+60,IDA*,EvenOdd Numbers Heuristic,13,192
+61,IDA*,EvenOdd Numbers Heuristic,14,192
+62,IDA*,EvenOdd Numbers Heuristic,14,192
+63,IDA*,EvenOdd Numbers Heuristic,13,192
+64,IDA*,EvenOdd Numbers Heuristic,13,192
+65,IDA*,EvenOdd Numbers Heuristic,13,192
+66,IDA*,EvenOdd Numbers Heuristic,14,192
+67,IDA*,EvenOdd Numbers Heuristic,14,192
+68,IDA*,EvenOdd Numbers Heuristic,13,192
+69,IDA*,EvenOdd Numbers Heuristic,13,192
+70,IDA*,EvenOdd Numbers Heuristic,13,192
+71,IDA*,EvenOdd Numbers Heuristic,13,192
+72,IDA*,EvenOdd Numbers Heuristic,13,192
+73,IDA*,EvenOdd Numbers Heuristic,14,192
+74,IDA*,EvenOdd Numbers Heuristic,14,192
+75,IDA*,EvenOdd Numbers Heuristic,13,192
+76,IDA*,EvenOdd Numbers Heuristic,13,192
+77,IDA*,EvenOdd Numbers Heuristic,13,192
+78,IDA*,EvenOdd Numbers Heuristic,13,192
+79,IDA*,EvenOdd Numbers Heuristic,12,192
+80,IDA*,EvenOdd Numbers Heuristic,12,192
+81,IDA*,EvenOdd Numbers Heuristic,14,192
+82,IDA*,EvenOdd Numbers Heuristic,13,192
+83,IDA*,EvenOdd Numbers Heuristic,13,192
+84,IDA*,EvenOdd Numbers Heuristic,13,192
+85,IDA*,EvenOdd Numbers Heuristic,13,192
+86,IDA*,EvenOdd Numbers Heuristic,14,192
+87,IDA*,EvenOdd Numbers Heuristic,15,192
+88,IDA*,EvenOdd Numbers Heuristic,13,192
+89,IDA*,EvenOdd Numbers Heuristic,13,192
+90,IDA*,EvenOdd Numbers Heuristic,14,192
+91,IDA*,EvenOdd Numbers Heuristic,13,192
+92,IDA*,EvenOdd Numbers Heuristic,14,192
+93,IDA*,EvenOdd Numbers Heuristic,14,192
+94,IDA*,EvenOdd Numbers Heuristic,13,192
+95,IDA*,EvenOdd Numbers Heuristic,14,192
+96,IDA*,EvenOdd Numbers Heuristic,13,192
+97,IDA*,EvenOdd Numbers Heuristic,13,192
+98,IDA*,EvenOdd Numbers Heuristic,13,192
+99,IDA*,EvenOdd Numbers Heuristic,13,192
+0,IDA*,Manhattan Distance,13,192
+1,IDA*,Manhattan Distance,13,192
+2,IDA*,Manhattan Distance,13,192
+3,IDA*,Manhattan Distance,13,192
+4,IDA*,Manhattan Distance,15,192
+5,IDA*,Manhattan Distance,14,192
+6,IDA*,Manhattan Distance,14,192
+7,IDA*,Manhattan Distance,14,192
+8,IDA*,Manhattan Distance,13,192
+9,IDA*,Manhattan Distance,14,192
+10,IDA*,Manhattan Distance,14,192
+11,IDA*,Manhattan Distance,16,192
+12,IDA*,Manhattan Distance,15,192
+13,IDA*,Manhattan Distance,15,192
+14,IDA*,Manhattan Distance,14,192
+15,IDA*,Manhattan Distance,14,192
+16,IDA*,Manhattan Distance,15,192
+17,IDA*,Manhattan Distance,14,192
+18,IDA*,Manhattan Distance,14,192
+19,IDA*,Manhattan Distance,14,192
+20,IDA*,Manhattan Distance,14,192
+21,IDA*,Manhattan Distance,14,192
+22,IDA*,Manhattan Distance,14,192
+23,IDA*,Manhattan Distance,15,192
+24,IDA*,Manhattan Distance,14,192
+25,IDA*,Manhattan Distance,14,192
+26,IDA*,Manhattan Distance,14,192
+27,IDA*,Manhattan Distance,14,192
+28,IDA*,Manhattan Distance,14,192
+29,IDA*,Manhattan Distance,14,192
+30,IDA*,Manhattan Distance,14,192
+31,IDA*,Manhattan Distance,14,192
+32,IDA*,Manhattan Distance,14,192
+33,IDA*,Manhattan Distance,15,192
+34,IDA*,Manhattan Distance,14,192
+35,IDA*,Manhattan Distance,16,192
+36,IDA*,Manhattan Distance,19,192
+37,IDA*,Manhattan Distance,17,192
+38,IDA*,Manhattan Distance,21,192
+39,IDA*,Manhattan Distance,19,192
+40,IDA*,Manhattan Distance,20,192
+41,IDA*,Manhattan Distance,21,192
+42,IDA*,Manhattan Distance,19,192
+43,IDA*,Manhattan Distance,19,192
+44,IDA*,Manhattan Distance,19,192
+45,IDA*,Manhattan Distance,20,192
+46,IDA*,Manhattan Distance,15,192
+47,IDA*,Manhattan Distance,20,192
+48,IDA*,Manhattan Distance,16,192
+49,IDA*,Manhattan Distance,19,192
+50,IDA*,Manhattan Distance,19,192
+51,IDA*,Manhattan Distance,20,192
+52,IDA*,Manhattan Distance,19,192
+53,IDA*,Manhattan Distance,15,192
+54,IDA*,Manhattan Distance,15,192
+55,IDA*,Manhattan Distance,16,192
+56,IDA*,Manhattan Distance,14,192
+57,IDA*,Manhattan Distance,15,192
+58,IDA*,Manhattan Distance,15,192
+59,IDA*,Manhattan Distance,16,192
+60,IDA*,Manhattan Distance,16,192
+61,IDA*,Manhattan Distance,18,192
+62,IDA*,Manhattan Distance,17,192
+63,IDA*,Manhattan Distance,20,192
+64,IDA*,Manhattan Distance,14,192
+65,IDA*,Manhattan Distance,13,192
+66,IDA*,Manhattan Distance,14,192
+67,IDA*,Manhattan Distance,14,192
+68,IDA*,Manhattan Distance,13,192
+69,IDA*,Manhattan Distance,14,192
+70,IDA*,Manhattan Distance,13,192
+71,IDA*,Manhattan Distance,14,192
+72,IDA*,Manhattan Distance,13,192
+73,IDA*,Manhattan Distance,13,192
+74,IDA*,Manhattan Distance,13,192
+75,IDA*,Manhattan Distance,13,192
+76,IDA*,Manhattan Distance,13,192
+77,IDA*,Manhattan Distance,13,192
+78,IDA*,Manhattan Distance,12,192
+79,IDA*,Manhattan Distance,12,192
+80,IDA*,Manhattan Distance,12,192
+81,IDA*,Manhattan Distance,12,192
+82,IDA*,Manhattan Distance,13,192
+83,IDA*,Manhattan Distance,13,192
+84,IDA*,Manhattan Distance,13,192
+85,IDA*,Manhattan Distance,12,192
+86,IDA*,Manhattan Distance,13,192
+87,IDA*,Manhattan Distance,12,192
+88,IDA*,Manhattan Distance,12,192
+89,IDA*,Manhattan Distance,12,192
+90,IDA*,Manhattan Distance,12,192
+91,IDA*,Manhattan Distance,12,192
+92,IDA*,Manhattan Distance,12,192
+93,IDA*,Manhattan Distance,12,192
+94,IDA*,Manhattan Distance,11,192
+95,IDA*,Manhattan Distance,12,192
+96,IDA*,Manhattan Distance,12,192
+97,IDA*,Manhattan Distance,12,192
+98,IDA*,Manhattan Distance,12,192
+99,IDA*,Manhattan Distance,11,192
+0,IDA*,Misplaced Tiles,12,192
+1,IDA*,Misplaced Tiles,11,192
+2,IDA*,Misplaced Tiles,11,192
+3,IDA*,Misplaced Tiles,11,192
+4,IDA*,Misplaced Tiles,13,192
+5,IDA*,Misplaced Tiles,11,192
+6,IDA*,Misplaced Tiles,12,192
+7,IDA*,Misplaced Tiles,11,192
+8,IDA*,Misplaced Tiles,12,192
+9,IDA*,Misplaced Tiles,12,192
+10,IDA*,Misplaced Tiles,11,192
+11,IDA*,Misplaced Tiles,12,192
+12,IDA*,Misplaced Tiles,11,192
+13,IDA*,Misplaced Tiles,11,192
+14,IDA*,Misplaced Tiles,11,192
+15,IDA*,Misplaced Tiles,11,192
+16,IDA*,Misplaced Tiles,12,192
+17,IDA*,Misplaced Tiles,12,192
+18,IDA*,Misplaced Tiles,11,192
+19,IDA*,Misplaced Tiles,12,192
+20,IDA*,Misplaced Tiles,12,192
+21,IDA*,Misplaced Tiles,12,192
+22,IDA*,Misplaced Tiles,12,192
+23,IDA*,Misplaced Tiles,11,192
+24,IDA*,Misplaced Tiles,11,192
+25,IDA*,Misplaced Tiles,11,192
+26,IDA*,Misplaced Tiles,11,192
+27,IDA*,Misplaced Tiles,11,192
+28,IDA*,Misplaced Tiles,11,192
+29,IDA*,Misplaced Tiles,11,192
+30,IDA*,Misplaced Tiles,12,192
+31,IDA*,Misplaced Tiles,11,192
+32,IDA*,Misplaced Tiles,13,192
+33,IDA*,Misplaced Tiles,12,192
+34,IDA*,Misplaced Tiles,13,192
+35,IDA*,Misplaced Tiles,13,192
+36,IDA*,Misplaced Tiles,13,192
+37,IDA*,Misplaced Tiles,13,192
+38,IDA*,Misplaced Tiles,12,192
+39,IDA*,Misplaced Tiles,12,192
+40,IDA*,Misplaced Tiles,13,192
+41,IDA*,Misplaced Tiles,12,192
+42,IDA*,Misplaced Tiles,13,192
+43,IDA*,Misplaced Tiles,13,192
+44,IDA*,Misplaced Tiles,13,192
+45,IDA*,Misplaced Tiles,14,192
+46,IDA*,Misplaced Tiles,13,192
+47,IDA*,Misplaced Tiles,13,192
+48,IDA*,Misplaced Tiles,12,192
+49,IDA*,Misplaced Tiles,12,192
+50,IDA*,Misplaced Tiles,12,192
+51,IDA*,Misplaced Tiles,12,192
+52,IDA*,Misplaced Tiles,12,192
+53,IDA*,Misplaced Tiles,12,192
+54,IDA*,Misplaced Tiles,12,192
+55,IDA*,Misplaced Tiles,12,192
+56,IDA*,Misplaced Tiles,12,192
+57,IDA*,Misplaced Tiles,11,192
+58,IDA*,Misplaced Tiles,12,192
+59,IDA*,Misplaced Tiles,11,192
+60,IDA*,Misplaced Tiles,12,192
+61,IDA*,Misplaced Tiles,12,192
+62,IDA*,Misplaced Tiles,11,192
+63,IDA*,Misplaced Tiles,12,192
+64,IDA*,Misplaced Tiles,12,192
+65,IDA*,Misplaced Tiles,11,192
+66,IDA*,Misplaced Tiles,11,192
+67,IDA*,Misplaced Tiles,12,192
+68,IDA*,Misplaced Tiles,11,192
+69,IDA*,Misplaced Tiles,11,192
+70,IDA*,Misplaced Tiles,11,192
+71,IDA*,Misplaced Tiles,12,192
+72,IDA*,Misplaced Tiles,12,192
+73,IDA*,Misplaced Tiles,11,192
+74,IDA*,Misplaced Tiles,11,192
+75,IDA*,Misplaced Tiles,12,192
+76,IDA*,Misplaced Tiles,11,192
+77,IDA*,Misplaced Tiles,11,192
+78,IDA*,Misplaced Tiles,11,192
+79,IDA*,Misplaced Tiles,11,192
+80,IDA*,Misplaced Tiles,12,192
+81,IDA*,Misplaced Tiles,11,192
+82,IDA*,Misplaced Tiles,11,192
+83,IDA*,Misplaced Tiles,13,192
+84,IDA*,Misplaced Tiles,12,192
+85,IDA*,Misplaced Tiles,13,192
+86,IDA*,Misplaced Tiles,14,192
+87,IDA*,Misplaced Tiles,15,192
+88,IDA*,Misplaced Tiles,19,192
+89,IDA*,Misplaced Tiles,15,192
+90,IDA*,Misplaced Tiles,19,192
+91,IDA*,Misplaced Tiles,18,192
+92,IDA*,Misplaced Tiles,16,192
+93,IDA*,Misplaced Tiles,19,192
+94,IDA*,Misplaced Tiles,15,192
+95,IDA*,Misplaced Tiles,20,192
+96,IDA*,Misplaced Tiles,19,192
+97,IDA*,Misplaced Tiles,20,192
+98,IDA*,Misplaced Tiles,14,192
+99,IDA*,Misplaced Tiles,20,192
+0,IDA*,Linear Conflict and Manhattan Distance,19,192
+1,IDA*,Linear Conflict and Manhattan Distance,16,192
+2,IDA*,Linear Conflict and Manhattan Distance,19,192
+3,IDA*,Linear Conflict and Manhattan Distance,17,192
+4,IDA*,Linear Conflict and Manhattan Distance,18,192
+5,IDA*,Linear Conflict and Manhattan Distance,15,192
+6,IDA*,Linear Conflict and Manhattan Distance,22,192
+7,IDA*,Linear Conflict and Manhattan Distance,17,192
+8,IDA*,Linear Conflict and Manhattan Distance,19,192
+9,IDA*,Linear Conflict and Manhattan Distance,16,192
+10,IDA*,Linear Conflict and Manhattan Distance,21,192
+11,IDA*,Linear Conflict and Manhattan Distance,20,192
+12,IDA*,Linear Conflict and Manhattan Distance,18,192
+13,IDA*,Linear Conflict and Manhattan Distance,16,192
+14,IDA*,Linear Conflict and Manhattan Distance,19,192
+15,IDA*,Linear Conflict and Manhattan Distance,20,192
+16,IDA*,Linear Conflict and Manhattan Distance,18,192
+17,IDA*,Linear Conflict and Manhattan Distance,16,192
+18,IDA*,Linear Conflict and Manhattan Distance,12,192
+19,IDA*,Linear Conflict and Manhattan Distance,12,192
+20,IDA*,Linear Conflict and Manhattan Distance,12,192
+21,IDA*,Linear Conflict and Manhattan Distance,12,192
+22,IDA*,Linear Conflict and Manhattan Distance,12,192
+23,IDA*,Linear Conflict and Manhattan Distance,12,192
+24,IDA*,Linear Conflict and Manhattan Distance,12,192
+25,IDA*,Linear Conflict and Manhattan Distance,12,192
+26,IDA*,Linear Conflict and Manhattan Distance,11,192
+27,IDA*,Linear Conflict and Manhattan Distance,12,192
+28,IDA*,Linear Conflict and Manhattan Distance,12,192
+29,IDA*,Linear Conflict and Manhattan Distance,11,192
+30,IDA*,Linear Conflict and Manhattan Distance,12,192
+31,IDA*,Linear Conflict and Manhattan Distance,11,192
+32,IDA*,Linear Conflict and Manhattan Distance,12,192
+33,IDA*,Linear Conflict and Manhattan Distance,11,192
+34,IDA*,Linear Conflict and Manhattan Distance,11,192
+35,IDA*,Linear Conflict and Manhattan Distance,11,192
+36,IDA*,Linear Conflict and Manhattan Distance,11,192
+37,IDA*,Linear Conflict and Manhattan Distance,11,192
+38,IDA*,Linear Conflict and Manhattan Distance,11,192
+39,IDA*,Linear Conflict and Manhattan Distance,11,192
+40,IDA*,Linear Conflict and Manhattan Distance,11,192
+41,IDA*,Linear Conflict and Manhattan Distance,11,192
+42,IDA*,Linear Conflict and Manhattan Distance,11,192
+43,IDA*,Linear Conflict and Manhattan Distance,11,192
+44,IDA*,Linear Conflict and Manhattan Distance,10,192
+45,IDA*,Linear Conflict and Manhattan Distance,11,192
+46,IDA*,Linear Conflict and Manhattan Distance,11,192
+47,IDA*,Linear Conflict and Manhattan Distance,11,192
+48,IDA*,Linear Conflict and Manhattan Distance,10,192
+49,IDA*,Linear Conflict and Manhattan Distance,10,192
+50,IDA*,Linear Conflict and Manhattan Distance,10,192
+51,IDA*,Linear Conflict and Manhattan Distance,10,192
+52,IDA*,Linear Conflict and Manhattan Distance,10,192
+53,IDA*,Linear Conflict and Manhattan Distance,11,192
+54,IDA*,Linear Conflict and Manhattan Distance,10,192
+55,IDA*,Linear Conflict and Manhattan Distance,10,192
+56,IDA*,Linear Conflict and Manhattan Distance,11,192
+57,IDA*,Linear Conflict and Manhattan Distance,10,192
+58,IDA*,Linear Conflict and Manhattan Distance,10,192
+59,IDA*,Linear Conflict and Manhattan Distance,10,192
+60,IDA*,Linear Conflict and Manhattan Distance,10,192
+61,IDA*,Linear Conflict and Manhattan Distance,10,192
+62,IDA*,Linear Conflict and Manhattan Distance,10,192
+63,IDA*,Linear Conflict and Manhattan Distance,10,192
+64,IDA*,Linear Conflict and Manhattan Distance,10,192
+65,IDA*,Linear Conflict and Manhattan Distance,10,192
+66,IDA*,Linear Conflict and Manhattan Distance,10,192
+67,IDA*,Linear Conflict and Manhattan Distance,10,192
+68,IDA*,Linear Conflict and Manhattan Distance,9,192
+69,IDA*,Linear Conflict and Manhattan Distance,9,192
+70,IDA*,Linear Conflict and Manhattan Distance,9,192
+71,IDA*,Linear Conflict and Manhattan Distance,10,192
+72,IDA*,Linear Conflict and Manhattan Distance,10,192
+73,IDA*,Linear Conflict and Manhattan Distance,10,192
+74,IDA*,Linear Conflict and Manhattan Distance,10,192
+75,IDA*,Linear Conflict and Manhattan Distance,10,192
+76,IDA*,Linear Conflict and Manhattan Distance,10,192
+77,IDA*,Linear Conflict and Manhattan Distance,10,192
+78,IDA*,Linear Conflict and Manhattan Distance,10,192
+79,IDA*,Linear Conflict and Manhattan Distance,10,192
+80,IDA*,Linear Conflict and Manhattan Distance,10,192
+81,IDA*,Linear Conflict and Manhattan Distance,11,192
+82,IDA*,Linear Conflict and Manhattan Distance,10,192
+83,IDA*,Linear Conflict and Manhattan Distance,10,192
+84,IDA*,Linear Conflict and Manhattan Distance,9,192
+85,IDA*,Linear Conflict and Manhattan Distance,10,192
+86,IDA*,Linear Conflict and Manhattan Distance,10,192
+87,IDA*,Linear Conflict and Manhattan Distance,9,192
+88,IDA*,Linear Conflict and Manhattan Distance,10,192
+89,IDA*,Linear Conflict and Manhattan Distance,10,192
+90,IDA*,Linear Conflict and Manhattan Distance,10,192
+91,IDA*,Linear Conflict and Manhattan Distance,10,192
+92,IDA*,Linear Conflict and Manhattan Distance,10,192
+93,IDA*,Linear Conflict and Manhattan Distance,10,192
+94,IDA*,Linear Conflict and Manhattan Distance,10,192
+95,IDA*,Linear Conflict and Manhattan Distance,10,192
+96,IDA*,Linear Conflict and Manhattan Distance,10,192
+97,IDA*,Linear Conflict and Manhattan Distance,10,192
+98,IDA*,Linear Conflict and Manhattan Distance,10,192
+99,IDA*,Linear Conflict and Manhattan Distance,10,192
+0,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+1,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+2,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+3,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+4,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+5,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+6,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+7,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,9,192
+8,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,9,192
+9,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+10,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+11,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,9,192
+12,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+13,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+14,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+15,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+16,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,9,192
+17,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+18,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+19,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+20,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+21,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,9,192
+22,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,9,192
+23,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+24,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+25,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,12,192
+26,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,14,192
+27,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,13,192
+28,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,13,192
+29,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,14,192
+30,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,15,192
+31,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,12,192
+32,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,13,192
+33,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,13,192
+34,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,13,192
+35,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,13,192
+36,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,13,192
+37,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,15,192
+38,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,13,192
+39,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+40,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,12,192
+41,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+42,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,12,192
+43,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+44,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,12,192
+45,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+46,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,12,192
+47,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,12,192
+48,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+49,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+50,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+51,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+52,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+53,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+54,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+55,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+56,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+57,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+58,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+59,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+60,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+61,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+62,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+63,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,12,192
+64,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+65,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+66,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+67,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+68,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+69,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+70,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+71,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+72,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+73,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+74,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+75,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+76,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+77,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+78,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+79,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+80,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+81,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+82,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+83,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+84,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+85,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+86,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+87,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+88,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+89,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+90,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+91,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,9,192
+92,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+93,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+94,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+95,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+96,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+97,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,11,192
+98,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192
+99,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,10,192

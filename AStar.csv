@@ -1,0 +1,401 @@
+Run,Algorithm,Heuristic,Execution Time (ms),Memory Used (Bytes)
+0,A*,EvenOdd Numbers Heuristic,19,474592
+1,A*,EvenOdd Numbers Heuristic,10,7176
+2,A*,EvenOdd Numbers Heuristic,11,7176
+3,A*,EvenOdd Numbers Heuristic,8,7176
+4,A*,EvenOdd Numbers Heuristic,9,7176
+5,A*,EvenOdd Numbers Heuristic,12,7176
+6,A*,EvenOdd Numbers Heuristic,8,7256
+7,A*,EvenOdd Numbers Heuristic,9,7176
+8,A*,EvenOdd Numbers Heuristic,10,7176
+9,A*,EvenOdd Numbers Heuristic,13,7176
+10,A*,EvenOdd Numbers Heuristic,11,7176
+11,A*,EvenOdd Numbers Heuristic,21,7176
+12,A*,EvenOdd Numbers Heuristic,27,7176
+13,A*,EvenOdd Numbers Heuristic,16,7176
+14,A*,EvenOdd Numbers Heuristic,11,7176
+15,A*,EvenOdd Numbers Heuristic,6,7176
+16,A*,EvenOdd Numbers Heuristic,8,7176
+17,A*,EvenOdd Numbers Heuristic,6,7176
+18,A*,EvenOdd Numbers Heuristic,9,7176
+19,A*,EvenOdd Numbers Heuristic,7,7176
+20,A*,EvenOdd Numbers Heuristic,7,7176
+21,A*,EvenOdd Numbers Heuristic,6,7176
+22,A*,EvenOdd Numbers Heuristic,9,7176
+23,A*,EvenOdd Numbers Heuristic,11,7176
+24,A*,EvenOdd Numbers Heuristic,9,7176
+25,A*,EvenOdd Numbers Heuristic,8,7176
+26,A*,EvenOdd Numbers Heuristic,7,7176
+27,A*,EvenOdd Numbers Heuristic,10,7176
+28,A*,EvenOdd Numbers Heuristic,10,7176
+29,A*,EvenOdd Numbers Heuristic,12,7176
+30,A*,EvenOdd Numbers Heuristic,9,7176
+31,A*,EvenOdd Numbers Heuristic,11,7176
+32,A*,EvenOdd Numbers Heuristic,12,7176
+33,A*,EvenOdd Numbers Heuristic,9,7176
+34,A*,EvenOdd Numbers Heuristic,12,7560
+35,A*,EvenOdd Numbers Heuristic,7,7176
+36,A*,EvenOdd Numbers Heuristic,7,7176
+37,A*,EvenOdd Numbers Heuristic,6,7176
+38,A*,EvenOdd Numbers Heuristic,7,7176
+39,A*,EvenOdd Numbers Heuristic,7,7176
+40,A*,EvenOdd Numbers Heuristic,6,7176
+41,A*,EvenOdd Numbers Heuristic,6,7176
+42,A*,EvenOdd Numbers Heuristic,6,7176
+43,A*,EvenOdd Numbers Heuristic,7,7176
+44,A*,EvenOdd Numbers Heuristic,7,7176
+45,A*,EvenOdd Numbers Heuristic,7,7176
+46,A*,EvenOdd Numbers Heuristic,6,7176
+47,A*,EvenOdd Numbers Heuristic,7,7176
+48,A*,EvenOdd Numbers Heuristic,8,7176
+49,A*,EvenOdd Numbers Heuristic,8,7176
+50,A*,EvenOdd Numbers Heuristic,8,7176
+51,A*,EvenOdd Numbers Heuristic,7,7176
+52,A*,EvenOdd Numbers Heuristic,7,7176
+53,A*,EvenOdd Numbers Heuristic,8,7176
+54,A*,EvenOdd Numbers Heuristic,7,7176
+55,A*,EvenOdd Numbers Heuristic,7,7176
+56,A*,EvenOdd Numbers Heuristic,7,7176
+57,A*,EvenOdd Numbers Heuristic,7,7176
+58,A*,EvenOdd Numbers Heuristic,8,7176
+59,A*,EvenOdd Numbers Heuristic,7,7176
+60,A*,EvenOdd Numbers Heuristic,8,7176
+61,A*,EvenOdd Numbers Heuristic,10,7176
+62,A*,EvenOdd Numbers Heuristic,10,7176
+63,A*,EvenOdd Numbers Heuristic,10,7176
+64,A*,EvenOdd Numbers Heuristic,10,7176
+65,A*,EvenOdd Numbers Heuristic,8,7176
+66,A*,EvenOdd Numbers Heuristic,8,7176
+67,A*,EvenOdd Numbers Heuristic,8,7176
+68,A*,EvenOdd Numbers Heuristic,7,7176
+69,A*,EvenOdd Numbers Heuristic,7,7176
+70,A*,EvenOdd Numbers Heuristic,7,7176
+71,A*,EvenOdd Numbers Heuristic,8,7176
+72,A*,EvenOdd Numbers Heuristic,8,7176
+73,A*,EvenOdd Numbers Heuristic,9,7176
+74,A*,EvenOdd Numbers Heuristic,8,7176
+75,A*,EvenOdd Numbers Heuristic,9,7176
+76,A*,EvenOdd Numbers Heuristic,9,7176
+77,A*,EvenOdd Numbers Heuristic,8,7176
+78,A*,EvenOdd Numbers Heuristic,9,7176
+79,A*,EvenOdd Numbers Heuristic,7,7176
+80,A*,EvenOdd Numbers Heuristic,9,7176
+81,A*,EvenOdd Numbers Heuristic,10,7176
+82,A*,EvenOdd Numbers Heuristic,10,7176
+83,A*,EvenOdd Numbers Heuristic,9,7176
+84,A*,EvenOdd Numbers Heuristic,9,7176
+85,A*,EvenOdd Numbers Heuristic,10,7176
+86,A*,EvenOdd Numbers Heuristic,9,7176
+87,A*,EvenOdd Numbers Heuristic,7,7176
+88,A*,EvenOdd Numbers Heuristic,7,7176
+89,A*,EvenOdd Numbers Heuristic,8,7176
+90,A*,EvenOdd Numbers Heuristic,7,7176
+91,A*,EvenOdd Numbers Heuristic,8,7176
+92,A*,EvenOdd Numbers Heuristic,7,7176
+93,A*,EvenOdd Numbers Heuristic,7,7176
+94,A*,EvenOdd Numbers Heuristic,7,7176
+95,A*,EvenOdd Numbers Heuristic,7,7176
+96,A*,EvenOdd Numbers Heuristic,7,7176
+97,A*,EvenOdd Numbers Heuristic,7,7176
+98,A*,EvenOdd Numbers Heuristic,8,7176
+99,A*,EvenOdd Numbers Heuristic,8,7176
+0,A*,Manhattan Distance,9,5728
+1,A*,Manhattan Distance,9,10968
+2,A*,Manhattan Distance,8,6672
+3,A*,Manhattan Distance,9,65384
+4,A*,Manhattan Distance,8,48976
+5,A*,Manhattan Distance,8,34360
+6,A*,Manhattan Distance,9,35000
+7,A*,Manhattan Distance,10,33680
+8,A*,Manhattan Distance,10,6272
+9,A*,Manhattan Distance,10,14320
+10,A*,Manhattan Distance,9,33424
+11,A*,Manhattan Distance,9,35312
+12,A*,Manhattan Distance,10,48720
+13,A*,Manhattan Distance,9,6624
+14,A*,Manhattan Distance,10,6440
+15,A*,Manhattan Distance,9,48904
+16,A*,Manhattan Distance,9,6256
+17,A*,Manhattan Distance,8,34688
+18,A*,Manhattan Distance,9,49184
+19,A*,Manhattan Distance,9,7048
+20,A*,Manhattan Distance,9,6120
+21,A*,Manhattan Distance,9,48112
+22,A*,Manhattan Distance,10,33696
+23,A*,Manhattan Distance,8,48368
+24,A*,Manhattan Distance,10,7040
+25,A*,Manhattan Distance,9,6096
+26,A*,Manhattan Distance,9,49096
+27,A*,Manhattan Distance,9,49112
+28,A*,Manhattan Distance,9,35440
+29,A*,Manhattan Distance,9,35200
+30,A*,Manhattan Distance,9,47784
+31,A*,Manhattan Distance,9,6824
+32,A*,Manhattan Distance,9,9752
+33,A*,Manhattan Distance,9,13752
+34,A*,Manhattan Distance,10,30032
+35,A*,Manhattan Distance,9,32760
+36,A*,Manhattan Distance,8,11200
+37,A*,Manhattan Distance,9,56936
+38,A*,Manhattan Distance,9,13224
+39,A*,Manhattan Distance,7,27544
+40,A*,Manhattan Distance,7,27792
+41,A*,Manhattan Distance,7,28264
+42,A*,Manhattan Distance,8,36208
+43,A*,Manhattan Distance,8,5728
+44,A*,Manhattan Distance,8,5728
+45,A*,Manhattan Distance,9,5728
+46,A*,Manhattan Distance,8,6112
+47,A*,Manhattan Distance,9,34544
+48,A*,Manhattan Distance,10,52976
+49,A*,Manhattan Distance,10,3600
+50,A*,Manhattan Distance,10,48072
+51,A*,Manhattan Distance,9,48248
+52,A*,Manhattan Distance,10,4672
+53,A*,Manhattan Distance,11,47712
+54,A*,Manhattan Distance,10,5704
+55,A*,Manhattan Distance,10,47688
+56,A*,Manhattan Distance,10,5752
+57,A*,Manhattan Distance,10,48192
+58,A*,Manhattan Distance,11,5840
+59,A*,Manhattan Distance,10,36160
+60,A*,Manhattan Distance,10,6152
+61,A*,Manhattan Distance,11,47760
+62,A*,Manhattan Distance,10,6264
+63,A*,Manhattan Distance,11,6032
+64,A*,Manhattan Distance,9,48008
+65,A*,Manhattan Distance,10,5984
+66,A*,Manhattan Distance,9,48872
+67,A*,Manhattan Distance,9,7424
+68,A*,Manhattan Distance,9,48856
+69,A*,Manhattan Distance,10,36144
+70,A*,Manhattan Distance,9,40848
+71,A*,Manhattan Distance,9,13296
+72,A*,Manhattan Distance,9,7744
+73,A*,Manhattan Distance,9,8104
+74,A*,Manhattan Distance,9,8872
+75,A*,Manhattan Distance,8,8128
+76,A*,Manhattan Distance,8,8888
+77,A*,Manhattan Distance,8,8344
+78,A*,Manhattan Distance,8,9920
+79,A*,Manhattan Distance,9,11216
+80,A*,Manhattan Distance,9,9504
+81,A*,Manhattan Distance,10,7968
+82,A*,Manhattan Distance,11,32936
+83,A*,Manhattan Distance,9,50808
+84,A*,Manhattan Distance,11,11928
+85,A*,Manhattan Distance,11,47696
+86,A*,Manhattan Distance,10,5864
+87,A*,Manhattan Distance,11,15016
+88,A*,Manhattan Distance,11,36240
+89,A*,Manhattan Distance,10,36056
+90,A*,Manhattan Distance,11,36112
+91,A*,Manhattan Distance,11,5776
+92,A*,Manhattan Distance,10,47880
+93,A*,Manhattan Distance,9,5824
+94,A*,Manhattan Distance,10,6568
+95,A*,Manhattan Distance,9,49000
+96,A*,Manhattan Distance,10,6824
+97,A*,Manhattan Distance,9,5280
+98,A*,Manhattan Distance,10,5888
+99,A*,Manhattan Distance,10,712
+0,A*,Misplaced Tiles,13,81800
+1,A*,Misplaced Tiles,11,736
+2,A*,Misplaced Tiles,9,85192
+3,A*,Misplaced Tiles,9,83824
+4,A*,Misplaced Tiles,9,3112
+5,A*,Misplaced Tiles,8,6664
+6,A*,Misplaced Tiles,9,39744
+7,A*,Misplaced Tiles,10,2120
+8,A*,Misplaced Tiles,9,40528
+9,A*,Misplaced Tiles,8,39856
+10,A*,Misplaced Tiles,9,40256
+11,A*,Misplaced Tiles,9,81360
+12,A*,Misplaced Tiles,10,15200
+13,A*,Misplaced Tiles,11,81944
+14,A*,Misplaced Tiles,10,40024
+15,A*,Misplaced Tiles,9,39904
+16,A*,Misplaced Tiles,11,81760
+17,A*,Misplaced Tiles,9,39912
+18,A*,Misplaced Tiles,10,41112
+19,A*,Misplaced Tiles,10,6832
+20,A*,Misplaced Tiles,11,46808
+21,A*,Misplaced Tiles,9,6656
+22,A*,Misplaced Tiles,10,47728
+23,A*,Misplaced Tiles,11,46104
+24,A*,Misplaced Tiles,10,47856
+25,A*,Misplaced Tiles,9,59272
+26,A*,Misplaced Tiles,11,40472
+27,A*,Misplaced Tiles,10,1440
+28,A*,Misplaced Tiles,12,81824
+29,A*,Misplaced Tiles,11,39832
+30,A*,Misplaced Tiles,10,40096
+31,A*,Misplaced Tiles,9,84536
+32,A*,Misplaced Tiles,11,45016
+33,A*,Misplaced Tiles,10,48992
+34,A*,Misplaced Tiles,11,46768
+35,A*,Misplaced Tiles,10,41840
+36,A*,Misplaced Tiles,10,54952
+37,A*,Misplaced Tiles,10,13240
+38,A*,Misplaced Tiles,10,74128
+39,A*,Misplaced Tiles,10,108248
+40,A*,Misplaced Tiles,12,42280
+41,A*,Misplaced Tiles,10,44352
+42,A*,Misplaced Tiles,10,82208
+43,A*,Misplaced Tiles,10,46040
+44,A*,Misplaced Tiles,11,2288
+45,A*,Misplaced Tiles,11,40
+46,A*,Misplaced Tiles,11,104680
+47,A*,Misplaced Tiles,14,42304
+48,A*,Misplaced Tiles,13,1232
+49,A*,Misplaced Tiles,12,43200
+50,A*,Misplaced Tiles,12,43040
+51,A*,Misplaced Tiles,10,84080
+52,A*,Misplaced Tiles,10,44008
+53,A*,Misplaced Tiles,13,45184
+54,A*,Misplaced Tiles,13,46592
+55,A*,Misplaced Tiles,12,19104
+56,A*,Misplaced Tiles,14,2152
+57,A*,Misplaced Tiles,11,81768
+58,A*,Misplaced Tiles,10,512
+59,A*,Misplaced Tiles,10,41448
+60,A*,Misplaced Tiles,11,40320
+61,A*,Misplaced Tiles,12,1216
+62,A*,Misplaced Tiles,11,40592
+63,A*,Misplaced Tiles,13,40024
+64,A*,Misplaced Tiles,10,40024
+65,A*,Misplaced Tiles,11,1800
+66,A*,Misplaced Tiles,10,2280
+67,A*,Misplaced Tiles,10,81976
+68,A*,Misplaced Tiles,10,40136
+69,A*,Misplaced Tiles,12,82312
+70,A*,Misplaced Tiles,12,81832
+71,A*,Misplaced Tiles,10,1992
+72,A*,Misplaced Tiles,10,40016
+73,A*,Misplaced Tiles,11,40400
+74,A*,Misplaced Tiles,12,39960
+75,A*,Misplaced Tiles,11,81864
+76,A*,Misplaced Tiles,12,82128
+77,A*,Misplaced Tiles,11,2320
+78,A*,Misplaced Tiles,11,81864
+79,A*,Misplaced Tiles,10,336
+80,A*,Misplaced Tiles,10,40272
+81,A*,Misplaced Tiles,10,1120
+82,A*,Misplaced Tiles,12,2112
+83,A*,Misplaced Tiles,12,41008
+84,A*,Misplaced Tiles,13,40416
+85,A*,Misplaced Tiles,12,82072
+86,A*,Misplaced Tiles,12,40640
+87,A*,Misplaced Tiles,12,40176
+88,A*,Misplaced Tiles,12,85208
+89,A*,Misplaced Tiles,10,45744
+90,A*,Misplaced Tiles,11,1608
+91,A*,Misplaced Tiles,11,42040
+92,A*,Misplaced Tiles,11,40288
+93,A*,Misplaced Tiles,12,40240
+94,A*,Misplaced Tiles,11,42168
+95,A*,Misplaced Tiles,11,336
+96,A*,Misplaced Tiles,11,2368
+97,A*,Misplaced Tiles,11,1920
+98,A*,Misplaced Tiles,11,1608
+99,A*,Misplaced Tiles,11,43024
+0,A*,Linear Conflict and Manhattan Distance,12,57528
+1,A*,Linear Conflict and Manhattan Distance,11,15256
+2,A*,Linear Conflict and Manhattan Distance,13,10392
+3,A*,Linear Conflict and Manhattan Distance,11,9480
+4,A*,Linear Conflict and Manhattan Distance,12,10248
+5,A*,Linear Conflict and Manhattan Distance,13,10120
+6,A*,Linear Conflict and Manhattan Distance,14,10584
+7,A*,Linear Conflict and Manhattan Distance,11,11040
+8,A*,Linear Conflict and Manhattan Distance,12,49624
+9,A*,Linear Conflict and Manhattan Distance,12,31464
+10,A*,Linear Conflict and Manhattan Distance,11,50704
+11,A*,Linear Conflict and Manhattan Distance,11,49952
+12,A*,Linear Conflict and Manhattan Distance,11,49232
+13,A*,Linear Conflict and Manhattan Distance,10,34576
+14,A*,Linear Conflict and Manhattan Distance,11,34768
+15,A*,Linear Conflict and Manhattan Distance,12,49128
+16,A*,Linear Conflict and Manhattan Distance,9,7336
+17,A*,Linear Conflict and Manhattan Distance,14,34936
+18,A*,Linear Conflict and Manhattan Distance,14,9312
+19,A*,Linear Conflict and Manhattan Distance,15,10576
+20,A*,Linear Conflict and Manhattan Distance,18,10192
+21,A*,Linear Conflict and Manhattan Distance,18,10624
+22,A*,Linear Conflict and Manhattan Distance,14,9376
+23,A*,Linear Conflict and Manhattan Distance,15,10232
+24,A*,Linear Conflict and Manhattan Distance,13,52392
+25,A*,Linear Conflict and Manhattan Distance,13,11440
+26,A*,Linear Conflict and Manhattan Distance,11,29512
+27,A*,Linear Conflict and Manhattan Distance,11,9896
+28,A*,Linear Conflict and Manhattan Distance,11,31528
+29,A*,Linear Conflict and Manhattan Distance,12,10928
+30,A*,Linear Conflict and Manhattan Distance,11,29296
+31,A*,Linear Conflict and Manhattan Distance,12,7352
+32,A*,Linear Conflict and Manhattan Distance,11,34848
+33,A*,Linear Conflict and Manhattan Distance,16,7176
+34,A*,Linear Conflict and Manhattan Distance,14,34784
+35,A*,Linear Conflict and Manhattan Distance,14,34752
+36,A*,Linear Conflict and Manhattan Distance,11,7592
+37,A*,Linear Conflict and Manhattan Distance,12,7240
+38,A*,Linear Conflict and Manhattan Distance,15,7512
+39,A*,Linear Conflict and Manhattan Distance,12,7312
+40,A*,Linear Conflict and Manhattan Distance,13,7584
+41,A*,Linear Conflict and Manhattan Distance,18,33016
+42,A*,Linear Conflict and Manhattan Distance,24,50152
+43,A*,Linear Conflict and Manhattan Distance,18,50304
+44,A*,Linear Conflict and Manhattan Distance,11,32976
+45,A*,Linear Conflict and Manhattan Distance,13,6688
+46,A*,Linear Conflict and Manhattan Distance,12,7320
+47,A*,Linear Conflict and Manhattan Distance,12,49376
+48,A*,Linear Conflict and Manhattan Distance,12,42424
+49,A*,Linear Conflict and Manhattan Distance,13,7232
+50,A*,Linear Conflict and Manhattan Distance,13,7416
+51,A*,Linear Conflict and Manhattan Distance,13,35344
+52,A*,Linear Conflict and Manhattan Distance,11,7232
+53,A*,Linear Conflict and Manhattan Distance,11,15072
+54,A*,Linear Conflict and Manhattan Distance,11,9520
+55,A*,Linear Conflict and Manhattan Distance,11,32600
+56,A*,Linear Conflict and Manhattan Distance,10,66528
+57,A*,Linear Conflict and Manhattan Distance,10,8688
+58,A*,Linear Conflict and Manhattan Distance,10,34680
+59,A*,Linear Conflict and Manhattan Distance,12,7176
+60,A*,Linear Conflict and Manhattan Distance,13,34744
+61,A*,Linear Conflict and Manhattan Distance,12,7176
+62,A*,Linear Conflict and Manhattan Distance,12,3272
+63,A*,Linear Conflict and Manhattan Distance,12,7296
+64,A*,Linear Conflict and Manhattan Distance,11,34792
+65,A*,Linear Conflict and Manhattan Distance,11,7272
+66,A*,Linear Conflict and Manhattan Distance,11,7440
+67,A*,Linear Conflict and Manhattan Distance,11,49104
+68,A*,Linear Conflict and Manhattan Distance,11,10200
+69,A*,Linear Conflict and Manhattan Distance,10,69424
+70,A*,Linear Conflict and Manhattan Distance,10,7176
+71,A*,Linear Conflict and Manhattan Distance,11,7176
+72,A*,Linear Conflict and Manhattan Distance,11,7176
+73,A*,Linear Conflict and Manhattan Distance,12,7176
+74,A*,Linear Conflict and Manhattan Distance,11,7176
+75,A*,Linear Conflict and Manhattan Distance,11,7176
+76,A*,Linear Conflict and Manhattan Distance,12,7176
+77,A*,Linear Conflict and Manhattan Distance,12,7176
+78,A*,Linear Conflict and Manhattan Distance,12,7176
+79,A*,Linear Conflict and Manhattan Distance,13,7176
+80,A*,Linear Conflict and Manhattan Distance,14,7176
+81,A*,Linear Conflict and Manhattan Distance,13,7176
+82,A*,Linear Conflict and Manhattan Distance,13,7176
+83,A*,Linear Conflict and Manhattan Distance,14,7176
+84,A*,Linear Conflict and Manhattan Distance,15,7176
+85,A*,Linear Conflict and Manhattan Distance,15,7176
+86,A*,Linear Conflict and Manhattan Distance,14,7176
+87,A*,Linear Conflict and Manhattan Distance,15,7176
+88,A*,Linear Conflict and Manhattan Distance,13,7176
+89,A*,Linear Conflict and Manhattan Distance,13,7176
+90,A*,Linear Conflict and Manhattan Distance,13,7176
+91,A*,Linear Conflict and Manhattan Distance,15,7176
+92,A*,Linear Conflict and Manhattan Distance,14,7176
+93,A*,Linear Conflict and Manhattan Distance,13,7176
+94,A*,Linear Conflict and Manhattan Distance,14,7176
+95,A*,Linear Conflict and Manhattan Distance,14,7176
+96,A*,Linear Conflict and Manhattan Distance,15,7176
+97,A*,Linear Conflict and Manhattan Distance,16,7176
+98,A*,Linear Conflict and Manhattan Distance,15,7176
+99,A*,Linear Conflict and Manhattan Distance,14,7176
