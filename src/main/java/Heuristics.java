@@ -1,7 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
-
 /**
  * The methode {@link Heuristics} includes all heuristics
  */
@@ -35,7 +31,8 @@ public class Heuristics {
         return result;
     }
 
-/*    public int randomHeuristic(int[][] board) {
+    // The inadmissible heuristic
+    public int randomHeuristic(int[][] board) {
         int result = 0;
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
@@ -48,28 +45,29 @@ public class Heuristics {
             }
         }
         return result;
-    }*/
+    }
 
+    // The admissible heuristic for the assignment
     public int evenOddNumberHeuristic(int[][] board) {
         int cost = 0;
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 int current = board[i][j];
                 if (current == 0 || current == i * 3 + j + 1) continue;
-                cost += calculateCost(current, i, j);
+                cost += checkingNumber(current, i, j);
             }
         }
         return cost;
     }
 
-    private int calculateCost(int number, int i, int j) {
+    private int checkingNumber(int number, int i, int j) {
         return (number & 1) == 0 ? evenNumberCost(number, i, j) : oddNumberCost(number, i, j);
     }
 
     private int evenNumberCost(int number, int i, int j) {
         int[][] evenNumberRules = {
                 {1, 2, 1},
-                {2, 2, 2},
+                {2, 1, 2},
                 {3, 2, 1}
         };
 

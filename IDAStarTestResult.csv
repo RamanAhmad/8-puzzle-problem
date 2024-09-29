@@ -1,0 +1,126 @@
+Run,Algorithm,Heuristic,Execution Time (ms),Memory Used (Bytes)
+0,IDA*,EvenOdd Numbers Heuristic,16,9400
+1,IDA*,EvenOdd Numbers Heuristic,16,29624
+2,IDA*,EvenOdd Numbers Heuristic,14,2768
+3,IDA*,EvenOdd Numbers Heuristic,14,38024
+4,IDA*,EvenOdd Numbers Heuristic,13,4464
+5,IDA*,EvenOdd Numbers Heuristic,14,2336
+6,IDA*,EvenOdd Numbers Heuristic,14,37512
+7,IDA*,EvenOdd Numbers Heuristic,12,3728
+8,IDA*,EvenOdd Numbers Heuristic,12,3120
+9,IDA*,EvenOdd Numbers Heuristic,14,8240
+10,IDA*,EvenOdd Numbers Heuristic,14,11064
+11,IDA*,EvenOdd Numbers Heuristic,13,256
+12,IDA*,EvenOdd Numbers Heuristic,12,528
+13,IDA*,EvenOdd Numbers Heuristic,13,41688
+14,IDA*,EvenOdd Numbers Heuristic,15,41520
+15,IDA*,EvenOdd Numbers Heuristic,16,928
+16,IDA*,EvenOdd Numbers Heuristic,12,1120
+17,IDA*,EvenOdd Numbers Heuristic,13,984
+18,IDA*,EvenOdd Numbers Heuristic,12,1416
+19,IDA*,EvenOdd Numbers Heuristic,12,104
+20,IDA*,EvenOdd Numbers Heuristic,13,41632
+21,IDA*,EvenOdd Numbers Heuristic,14,42312
+22,IDA*,EvenOdd Numbers Heuristic,12,1128
+23,IDA*,EvenOdd Numbers Heuristic,12,41648
+24,IDA*,EvenOdd Numbers Heuristic,13,42472
+0,IDA*,Manhattan Distance,13,40120
+1,IDA*,Manhattan Distance,14,2856
+2,IDA*,Manhattan Distance,14,1864
+3,IDA*,Manhattan Distance,14,42776
+4,IDA*,Manhattan Distance,13,37320
+5,IDA*,Manhattan Distance,13,472
+6,IDA*,Manhattan Distance,14,272
+7,IDA*,Manhattan Distance,15,432
+8,IDA*,Manhattan Distance,15,392
+9,IDA*,Manhattan Distance,15,41576
+10,IDA*,Manhattan Distance,14,344
+11,IDA*,Manhattan Distance,14,41784
+12,IDA*,Manhattan Distance,13,42328
+13,IDA*,Manhattan Distance,14,184
+14,IDA*,Manhattan Distance,13,41632
+15,IDA*,Manhattan Distance,14,648
+16,IDA*,Manhattan Distance,13,42240
+17,IDA*,Manhattan Distance,13,41840
+18,IDA*,Manhattan Distance,24,41168
+19,IDA*,Manhattan Distance,14,312
+20,IDA*,Manhattan Distance,14,42272
+21,IDA*,Manhattan Distance,15,208
+22,IDA*,Manhattan Distance,13,41744
+23,IDA*,Manhattan Distance,13,42048
+24,IDA*,Manhattan Distance,15,42200
+0,IDA*,Misplaced Tiles,16,15008
+1,IDA*,Misplaced Tiles,15,11624
+2,IDA*,Misplaced Tiles,17,9600
+3,IDA*,Misplaced Tiles,16,26304
+4,IDA*,Misplaced Tiles,14,38288
+5,IDA*,Misplaced Tiles,16,41192
+6,IDA*,Misplaced Tiles,15,41176
+7,IDA*,Misplaced Tiles,28,392
+8,IDA*,Misplaced Tiles,15,376
+9,IDA*,Misplaced Tiles,15,464
+10,IDA*,Misplaced Tiles,15,384
+11,IDA*,Misplaced Tiles,15,33208
+12,IDA*,Misplaced Tiles,15,7280
+13,IDA*,Misplaced Tiles,16,36496
+14,IDA*,Misplaced Tiles,18,83168
+15,IDA*,Misplaced Tiles,17,42376
+16,IDA*,Misplaced Tiles,18,59384
+17,IDA*,Misplaced Tiles,16,10072
+18,IDA*,Misplaced Tiles,16,41776
+19,IDA*,Misplaced Tiles,16,44896
+20,IDA*,Misplaced Tiles,15,43808
+21,IDA*,Misplaced Tiles,15,14248
+22,IDA*,Misplaced Tiles,15,36336
+23,IDA*,Misplaced Tiles,15,4960
+24,IDA*,Misplaced Tiles,16,7752
+0,IDA*,Linear Conflict and Manhattan Distance,16,20304
+1,IDA*,Linear Conflict and Manhattan Distance,17,62392
+2,IDA*,Linear Conflict and Manhattan Distance,17,41616
+3,IDA*,Linear Conflict and Manhattan Distance,16,42240
+4,IDA*,Linear Conflict and Manhattan Distance,19,6096
+5,IDA*,Linear Conflict and Manhattan Distance,17,552
+6,IDA*,Linear Conflict and Manhattan Distance,17,42256
+7,IDA*,Linear Conflict and Manhattan Distance,16,42288
+8,IDA*,Linear Conflict and Manhattan Distance,17,680
+9,IDA*,Linear Conflict and Manhattan Distance,16,472
+10,IDA*,Linear Conflict and Manhattan Distance,16,248
+11,IDA*,Linear Conflict and Manhattan Distance,16,41480
+12,IDA*,Linear Conflict and Manhattan Distance,16,160
+13,IDA*,Linear Conflict and Manhattan Distance,16,42216
+14,IDA*,Linear Conflict and Manhattan Distance,18,352
+15,IDA*,Linear Conflict and Manhattan Distance,17,42352
+16,IDA*,Linear Conflict and Manhattan Distance,15,41616
+17,IDA*,Linear Conflict and Manhattan Distance,18,80
+18,IDA*,Linear Conflict and Manhattan Distance,16,41360
+19,IDA*,Linear Conflict and Manhattan Distance,17,736
+20,IDA*,Linear Conflict and Manhattan Distance,17,328
+21,IDA*,Linear Conflict and Manhattan Distance,16,41616
+22,IDA*,Linear Conflict and Manhattan Distance,15,344
+23,IDA*,Linear Conflict and Manhattan Distance,16,344
+24,IDA*,Linear Conflict and Manhattan Distance,16,41192
+0,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,16,560
+1,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,16,42136
+2,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,42408
+3,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,16,40968
+4,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,17,41096
+5,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,17,41456
+6,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,33,42496
+7,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,16,42864
+8,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,16,42656
+9,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,29,42792
+10,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,17,42824
+11,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,1592
+12,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,17,21536
+13,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,2792
+14,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,552
+15,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,1168
+16,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,19,40984
+17,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,1232
+18,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,42184
+19,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,17,41608
+20,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,41536
+21,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,752
+22,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,17,296
+23,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,17,296
+24,IDA*,Linear Conflict and EvenOdd Numbers Heuristic,18,1952
